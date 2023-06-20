@@ -1,0 +1,28 @@
+.container {
+    max-width: 1150px;
+    height: 100vh;
+    background-color: #D3E6FE;
+}
+
+img {
+    width: 500px;
+    margin: 40px;
+}
+
+.btn {
+    background-color: #F15A24;
+    border: 3px solid #603813;
+    margin-top: 15px;
+}
+
+#jokes-container {
+    width: 500px;
+    min-height: 120px;
+    padding: 20px;
+    margin: 30px auto;
+}
+
+.form-control {
+    width: 210px;
+    margin: auto;
+}
